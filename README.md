@@ -12,7 +12,7 @@ A Python-based Library Management System that allows users to add books, registe
 ## Data Storage
 Library data (books and users) is stored in library_data.json
 
-##Example Interaction:
+## Example Interaction:
 Library Management System
 1. Add Book
 2. Register User
